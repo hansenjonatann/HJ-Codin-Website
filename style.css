@@ -1,0 +1,35 @@
+.stylelinks {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.marginbutton {
+    margin-top: 4px;
+}
+
+.hidden {
+    display: none;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+.darkmode {
+    border: none;
+    font-size: 20px;
+    position: fixed;
+    margin-top: 75px;
+    right: 0;
+}
+
+.darkmodeon{
+    background-color: black;
+    color: white;
+}
+
